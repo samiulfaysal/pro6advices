@@ -1,0 +1,42 @@
+2024-10-25 16:38:58	Update #8: Completed!
+2024-10-25 16:38:58	Update #9: Initializing update
+2024-10-25 16:38:58	Update #9: Added: Pages > Recent
+2024-10-25 16:38:58	Update #9: Completed!
+2024-10-25 16:39:01	Update #10: Initializing update
+2024-10-25 16:39:01	Update #10: Installed ProcessLogger and added: Setup > Logs
+2024-10-25 16:39:01	Update #10: Installed InputfieldIcon
+2024-10-25 16:39:01	Update #10: Completed!
+2024-10-25 16:39:06	Update #11: Initializing update
+2024-10-25 16:39:06	Update #11: Completed!
+2024-10-25 16:39:06	Update #17: Created: /site/assets/.htaccess
+2024-10-25 16:39:06	Update #17: Created: /site/templates/.htaccess
+2024-10-25 16:39:06	Update #17: Created: /site/modules/.htaccess
+2024-10-25 16:39:06	Update #12: Initializing update
+2024-10-25 16:39:06	Update #12: Added 'published' column to pages table
+2024-10-25 16:39:06	Update #12: Populated values to 'published' for 43 pages
+2024-10-25 16:39:06	Update #12: Completed!
+2024-10-25 16:39:06	Update #13: Initializing update
+2024-10-25 16:39:06	Update #13: Completed!
+2024-10-25 16:39:07	Update #14: Initializing update
+2024-10-25 16:39:07	Update #14: Completed!
+2024-10-25 16:39:08	Update #15: Initializing update
+2024-10-25 16:39:08	Update #15: Completed!
+2024-10-25 16:39:08	Update #16: Initializing update
+2024-10-25 16:39:08	Update #16: Completed!
+2024-10-25 16:41:36	Update #17: Initializing update
+2024-10-25 16:41:36	Update #17: Skipped: /site/.htaccess (already exists)
+2024-10-25 16:41:36	Update #17: Skipped: /site/assets/.htaccess (already exists)
+2024-10-25 16:41:36	Update #17: Skipped: /site/assets/cache/.htaccess (already exists)
+2024-10-25 16:41:36	Update #17: Skipped: /site/assets/backups/.htaccess (already exists)
+2024-10-25 16:41:36	Update #17: Skipped: /site/assets/logs/.htaccess (already exists)
+2024-10-25 16:41:36	Update #17: Skipped: /site/templates/.htaccess (already exists)
+2024-10-25 16:41:36	Update #17: Skipped: /site/modules/.htaccess (already exists)
+2024-10-25 16:41:36	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2024-10-25 16:41:36	Update #17: Completed!
+2024-10-25 16:41:37	Update #18: Initializing update
+2024-10-25 16:41:37	Update #18: Completed!
+2024-10-25 16:45:32	Update #19: Initializing update
+2024-10-25 16:45:32	Update #19: Completed!
+2024-10-25 16:45:32	Update #20: Initializing update
+2024-10-25 16:45:32	Update #20: Updated 29 page(s) for correct created_users_id
+2024-10-25 16:45:32	Update #20: Completed!

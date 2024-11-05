@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Julius+Sans+One);
+
+.Inputfields, .Inputfields .Inputfield, .Inputfields label, .Inputfields input, .Inputfields select, .Inputfields textarea, .Inputfields table {
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 5px 0;
+}
+
+.Inputfields label {
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.InputfieldRadiosStacked label {
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.content .ui-button {
+    font-weight: 400;
+}
+
+input[type='submit'], button[type='submit'] {
+    background: #752376;
+    color:#fff;
+    border:0;
+    padding: 5px 10px !important;
+    cursor: pointer;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 14px !important;
+}
+
+input[type='submit'] span, button[type='submit'] span {
+    padding: 8px 40px 10px 0;
+    display: inline-block;
+    background: url(/site/templates/img/bg-button.png) center right no-repeat;
+}
+
+input[type='submit']:hover, button[type='submit']:hover {
+    background: #591b5a;
+}
+
+
+.ui-state-highlight {
+    background: green;
+    color:#fff;
+}
+
+.InputfieldCheckbox .ui-widget-header {
+    display: none;
+}
