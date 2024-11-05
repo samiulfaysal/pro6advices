@@ -51,10 +51,10 @@ $config->templateCompile = false;
  * Installer: Database Configuration
  * 
  */
-$config->dbHost = 'localhost';
-$config->dbName = 'u558951646_processwire';
-$config->dbUser = 'u558951646_pwire';
-$config->dbPass = '@Faysal25524';
+$config->dbHost = 'bdemauidsigfzs3fpje8-mysql.services.clever-cloud.com';
+$config->dbName = 'bdemauidsigfzs3fpje8';
+$config->dbUser = 'uiubuttnx8udnikg';
+$config->dbPass = 'bft8mxroCbHjoTeTGq1x';
 $config->dbPort = '3306';
 
 /**
